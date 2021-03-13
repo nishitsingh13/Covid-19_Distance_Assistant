@@ -26,7 +26,7 @@ Social distancing is a method used to control the spread of contagious diseases.
 </p>
 <br><br>
 
-## Features:
+## Features align="center":
 * Object detection using the YOLO COCO model to detect only people in a video stream.
 * Computes the pairwise distances between all detected people.
 * Based on the computed distances, we determine whether social distancing rule is being violated or not.
