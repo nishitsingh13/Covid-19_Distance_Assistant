@@ -82,3 +82,18 @@ Provided you already have OpenCV installed with NVIDIA GPU support, all you need
 
 ## Demo :
 ![raw-vid](res/demo0.gif "Unprocessed video") ![processed-vid](res/demo1.gif "Processed video")
+
+<br>
+
+## References :
+* <a href="https://en.wikipedia.org/wiki/Social_distancing">Social Distancing</a>
+* <a href="https://www.reddit.com/r/computervision/comments/gf4zhj/automatic_social_distance_measurement/">Automatic social distance measurement</a>
+* <a href="https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6661455400346492928/">Rohit Kumar Srivastava’s social distancing implementation</a>
+* <a href="https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6655464103798157312/">Venkatagiri Ramesh’s social distancing project</a>
+
+<br>
+
+## Todos :
+* Utilize proper camera calibration.
+* Apply top-down transformation of view angle.
+* Improve the poeple detection process.
