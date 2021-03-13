@@ -7,7 +7,7 @@ A social distancing detector built with OpenCV using YOLO(COCO model) object det
 
 
 <h3 align="center">
-      Motivation
+      MOTIVATION
 </h3>
 
 
