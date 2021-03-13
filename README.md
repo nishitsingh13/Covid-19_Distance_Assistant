@@ -6,7 +6,9 @@
 A social distancing detector built with OpenCV using YOLO(COCO model) object detector
 
 
-<h3> Motivation<span style='font-size:100px;'>&#127775;</span></h3>
+<h3 align="center">
+      Motivation
+</h3>
 
 
 <p>
