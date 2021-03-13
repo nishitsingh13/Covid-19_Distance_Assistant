@@ -76,3 +76,9 @@ Add the weight file to the yolo-coco folder.
 
 * GPU\
 Provided you already have OpenCV installed with NVIDIA GPU support, all you need to do is set ```USE_GPU=True``` in your ```config.py``` file.
+
+<br>
+
+
+## Demo :
+![raw-vid](res/demo0.gif "Unprocessed video") ![processed-vid](res/demo1.gif "Processed video")
