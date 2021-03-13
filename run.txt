@@ -1,0 +1,23 @@
+How to execute the project
+
+1. First Of all Create a Virtual Environment 
+2. Then Enable it 
+3. Then install all the required dependencies , which is stored in requirement.txt file
+4. Then simply execute it .
+
+
+Commands Used :
+1. python3 -m venv venv
+2. source venv/bin/activate
+3. pip install -r requirement.txt
+4. python social_distancing_detector.py
+
+
+
+And if there any pre recorded file/video clip which you want to used for measuring distancing
+then,
+use this command in "4." place python social_distancing_detector.py --input 'filename'.mp4 --output output.avi --display 1
+
+
+And we are done,
+Thank You .
