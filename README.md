@@ -33,7 +33,7 @@ Social distancing is a method used to control the spread of contagious diseases.
 
 <br>
 
-## Installation :package:
+## Installation :
 
 1. Clone the repo
 
@@ -58,3 +58,4 @@ Social distancing is a method used to control the spread of contagious diseases.
 ```bash
    $ python social_distancing_detector.py
    $ python social_distancing_detector.py --input filename.mp4 --output output.avi --display 1     ---->  For Pre-recorded Videos
+```
