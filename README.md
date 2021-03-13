@@ -39,7 +39,7 @@ Social distancing is a method used to control the spread of contagious diseases.
 
 ```bash
    $ git clone https://github.com/nishitsingh13/Covid-19_Distance_Assistant.git
-   $ cd social-distancing-detector
+   $ cd Covid-19_Distance_Assistant
 ```
 
 2. Create Virtual Environment
